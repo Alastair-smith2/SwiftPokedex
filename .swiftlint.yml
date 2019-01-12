@@ -1,0 +1,13 @@
+included:
+  - Pokedex
+excluded:
+  - Pods
+line_length: 140
+disabled_rules:
+  - trailing_comma
+identifier_name:
+  excluded:
+    - id
+    - base_stat
+    - is_hidden
+
