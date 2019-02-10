@@ -24,8 +24,8 @@ This project uses a combination of -
 
 ## Images
 
-Table view ![Table view] https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.15.29.png
+Table view (https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.15.29.png)
 
-Search ![Search] https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.15.25.png
+Search (https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.15.25.png)
 
-Autolayout rotation ![Autolayout rotation support] https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.14.58.png
+Autolayout rotation (https://github.com/Alastair-smith2/SwiftPokedex/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-10%20at%2014.14.58.png)
